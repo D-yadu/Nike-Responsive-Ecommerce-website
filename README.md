@@ -1,4 +1,4 @@
-# Responsive Nike Clone
+# Responsive Nike Website
 
 In this project, I have created Responsive Nike Clone, The project is built using **HTML5, CSS & JavaScript**.
 
